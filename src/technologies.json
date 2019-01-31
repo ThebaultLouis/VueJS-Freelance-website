@@ -1,0 +1,78 @@
+[
+  {
+  "name": "Les bases",
+  "technologies": [
+    {
+      "name": "HTML5",
+      "image":"/web/HTML5.png"
+    },
+    {
+      "name": "CSS3",
+      "image":"/web/CSS3.png"
+    },
+    {
+      "name": "Javascript",
+      "image":"/web/javascript.png"
+    }
+  ]
+  },
+  {
+    "name": "Le classique",
+    "technologies": [
+      {
+        "name": "MySQL",
+        "image":"/web/MySQL.png"
+      },
+      {
+        "name": "PHP",
+        "image":"/web/PHP.png"
+      },
+      {
+        "name": "Symfony",
+        "image":"/web/symfony.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image":"/web/bootstrap.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Le moderne",
+    "technologies": [
+      {
+        "name": "MongoDB",
+        "image":"/web/mongodb.png"
+      },
+      {
+        "name": "NodeJS",
+        "image":"/web/NodeJS.png"
+      },
+      {
+        "name": "VueJS",
+        "image":"/web/vuejs.png"
+      },
+      {
+        "name": "Vuetify",
+        "image":"/web/vuetify.png"
+      }
+    ]
+  },
+  {
+    "name": "Le futur",
+    "technologies": [
+      {
+        "name": "Meteor",
+        "image":"/web/meteor.png"
+      },
+      {
+        "name": "VueJS",
+        "image":"/web/vuejs.png"
+      },
+      {
+        "name": "Vuetify",
+        "image":"/web/vuetify.png"
+      }
+    ]
+  }
+]

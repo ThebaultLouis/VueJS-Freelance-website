@@ -1,0 +1,32 @@
+[
+  {
+    "title": "HTML5 - CSS3 - JavaScript",
+    "date": "Début Juillet - Fin Août",
+    "content": "Projet: site web DML Laillé 35 <br> Pure HTMl et CSS",
+    "link":"https://github.com/ThebaultLouis/DML_Laille_HTML_CSS"
+  },
+  {
+    "title": "PHP",
+    "date": "Octobre",
+    "content":"",
+    "link":""
+  },
+  {
+    "title": "Symfony",
+    "date": "Novembre",
+    "content":"Projet: site web DML Laillé 35<br>Utilisation de MySQL,<br>PHPMyAdmin, Bootstrap",
+    "link":"https://github.com/ThebaultLouis/DML-Laille_Symfony"
+  },
+  {
+    "title": "Javascript - VueJS",
+    "date": "Janvier",
+    "content":"Projet: Le site de Freelance<br>que vous consultez :p",
+    "link":"https://github.com/ThebaultLouis/VueJS-Freelance-website"
+  },
+  {
+    "title": "NodeJS",
+    "date": "Février",
+    "content":"",
+    "link":""
+  }
+]
